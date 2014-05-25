@@ -1,17 +1,5 @@
 <HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="LibreOffice 4.0.5.2 (Linux)">
-	<META NAME="CREATED" CONTENT="0;0">
-	<META NAME="CHANGED" CONTENT="0;0">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { margin: 1in }
-		P { margin-bottom: 0.08in }
-	-->
-	</STYLE>
-</HEAD>
+
 <BODY LANG="en-US" DIR="LTR">
 <P STYLE="margin-right: 0.26in; margin-bottom: 0in"><FONT COLOR="#000000"><FONT FACE="Helvetica, serif"><FONT SIZE=5>			DATA
 DICTIONARY</FONT></FONT></FONT></P>
